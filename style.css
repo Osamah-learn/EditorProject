@@ -1,0 +1,54 @@
+
+
+.navbar img{
+    border-radius: 100px;
+}
+
+#codes{
+    width: 98%;
+    min-height:280px;
+    border-radius: 14px;
+    border:2px solid rgb(180, 174, 174) ;
+    
+}
+
+main{
+    text-align: center;
+    
+}
+
+
+#buttons {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#buttons button {
+    width: 48%;
+    border-radius: 20px;
+    border:0px solid;
+    padding:12px;
+}
+
+
+#run {
+    background-color: rgb(117, 214, 117);
+    color: white;
+}
+
+#remove {
+    background-color:rgb(206, 45, 45);
+    color: white;
+}
+
+#resulit-title{
+    padding:10px;
+    color: green;
+    border-bottom: 1px solid  rgb(180, 174, 174) ;
+    margin: 8px 0px;
+    font-weight: bold;
+}
+
+#resulit{
+    max-width: 100%;
+}
